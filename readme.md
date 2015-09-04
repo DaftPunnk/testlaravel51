@@ -12,7 +12,7 @@ Laravel is accessible, yet powerful, providing powerful tools needed for large, 
 
 ##Welcome to my first Laravel 5.1 application by Will Chen 2015
 
-Enjoy the ride
+Enjoy the ride be good
 
 ### License
 
