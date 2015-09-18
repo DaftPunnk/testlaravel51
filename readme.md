@@ -15,6 +15,15 @@ Introduction to a PHP framework call **Laravel 5.1**
 
 Enjoy the ride be good! Eat healthy!
 
+Work covered so far:
+
+00-Laravel and Required Software - 2015
+01-Installing Laravel 5.1 on Xampp - 2015
+Did not complete 02 and 03 (optional)
+04-The Laravel 5.1 Directory Structure - 2015
+05-Creating a Git Repository - 2015
+
+
 ### License
 
 The Laravel framework is open-sourced software licensed under the [MIT license](http://opensource.org/licenses/MIT)
